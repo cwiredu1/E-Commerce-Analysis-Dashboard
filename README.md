@@ -6,3 +6,17 @@ This repository contains a Power Bi dashboard of an E-commerce store that allows
 - Power Query
 - Dax Query
 - Data modeling
+
+# Steps Employed in this Project
+- Imported data from Excel file into Power BI for creating dashboard
+- Used Power Query editor to clean and transform the data
+- Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
+- Load and Apply the cleaned data into Power BI
+- Created a Calender table using DAX formula
+- Later created relationship between the new created calender table and ecommerce data to create measure to show on KPI visual
+- Design the dashboard layout
+- Created a measures to aggregate and display the data using Dax functions
+- Use Visulizations for charts and slicers for filter dashboard
+- Now, Add Title Ecommerce Sales Dashboard
+- Add Customer segment as Slicer and add some informative KPI
+- Add Card chart, Area chart, Donut chart, Matrix chart, Bar chart, Map etc
