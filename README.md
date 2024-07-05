@@ -20,3 +20,7 @@ This repository contains a Power Bi dashboard of an E-commerce store that allows
 - Now, Add Title Ecommerce Sales Dashboard
 - Add Customer segment as Slicer and add some informative KPI
 - Add Card chart, Area chart, Donut chart, Matrix chart, Bar chart, Map etc
+
+# PowerBi Interactive Dashboard Snapshot
+![ecommerce](https://github.com/cwiredu1/E-Commerce-Analysis-Dashboard/assets/121901813/47fa944a-8038-40de-b005-bb6b6e5d34ce)
+
